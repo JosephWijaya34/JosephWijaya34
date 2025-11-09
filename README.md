@@ -14,7 +14,7 @@ With experience in both **frontend and backend development**, I enjoy working on
 
 ## 🧠 Tech Stack
 ### 💡 Languages & Frameworks
-- **Mobile:** Swift (SwiftUI), Flutter (Dart), Kotlin  
+- **Mobile:** Swift (SwiftUI), Kotlin  
 - **Web:** PHP (Laravel), JavaScript (ExpressJS, NextJS), HTML, CSS, Tailwind  
 - **Other:** Python, Java, MySQL, Docker  
 
@@ -43,12 +43,11 @@ With experience in both **frontend and backend development**, I enjoy working on
 ---
 
 ## 🧩 Projects
-Here are a few highlights from my portfolio:
+Here are a few best highlights from my portfolio:
 
 - **[MyDietPal Web App](https://mydietpalgo.com/)** – Diet monitoring system built with Laravel and OpenAI API integration.  
 - **[FoodSpots iOS App]()** – SwiftUI + SwiftData app for discovering and reviewing restaurants.  
 - **[OCR Receipt Scanner](#)** – OCR-based receipt detection app using Vision and CoreML.  
-- **[RunningMate Fitness Tracker](#)** – Gamified fitness app with SwiftUI animations.
 
 *(More projects coming soon!)*
 
