@@ -45,8 +45,8 @@ With experience in both **frontend and backend development**, I enjoy working on
 ## 🧩 Projects
 Here are a few highlights from my portfolio:
 
-- **[MyDietPal Web App](#)** – Diet monitoring system built with Laravel and OpenAI API integration.  
-- **[FoodSpots iOS App](#)** – SwiftUI + SwiftData app for discovering and reviewing restaurants.  
+- **[MyDietPal Web App](https://mydietpalgo.com/)** – Diet monitoring system built with Laravel and OpenAI API integration.  
+- **[FoodSpots iOS App]()** – SwiftUI + SwiftData app for discovering and reviewing restaurants.  
 - **[OCR Receipt Scanner](#)** – OCR-based receipt detection app using Vision and CoreML.  
 - **[RunningMate Fitness Tracker](#)** – Gamified fitness app with SwiftUI animations.
 
