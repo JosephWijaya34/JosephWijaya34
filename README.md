@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Joseph Karunia Wijaya
 
 🎓 Fresh Graduate in Informatics from Universitas Ciputra Surabaya  
-🍏 Currently learning at **Apple Developer Academy @ UC (Mar 2025 – Present)**  
+🍏 Currently learning at **Apple Developer Academy @ UC (Mar 2025 – Des 2025)**  
 💻 Passionate about creating impactful digital solutions through **mobile and web development**  
 
 ---
